@@ -1,8 +1,9 @@
+
 /*==============================================================*/
 /* Table: ADDRESS                                               */
 /*==============================================================*/
 create table dbo.ADDRESS (
-   ADDRESS_ID           INT                  not null,
+   ADDRESS_ID           INT    IDENTITY(1, 1)   not null,
    PARTICIPANT_ID       INT                  not null,
    ADDRESS_TYPE         VARCHAR(50)          null,
    ADDRESS_LINE_1       VARCHAR(200)         null,
@@ -22,7 +23,7 @@ create table dbo.ADDRESS (
 /* Table: COHORT                                                */
 /*==============================================================*/
 create table dbo.COHORT (
-   COHORT_ID            INT                  not null,
+   COHORT_ID            INT    IDENTITY(1, 1)    not null,
    PROGRAM_ID           INT                  not null,
    COHORT_NAME          VARCHAR(100)         null,
    COHORT_CREATE_DATE   DATE                 null,
@@ -34,7 +35,7 @@ create table dbo.COHORT (
 /* Table: CONTACT_PREFERENCE                                    */
 /*==============================================================*/
 create table dbo.CONTACT_PREFERENCE (
-   CONTACT_PREFERENCE_ID INT                  not null,
+   CONTACT_PREFERENCE_ID INT     IDENTITY(1, 1)    not null,
    PARTICIPANT_ID       INT                  not null,
    CONTACT_METHOD       VARCHAR(100)         null,
    PREFERRED_LANGUAGE   VARCHAR(100)         null,
@@ -52,18 +53,21 @@ create table dbo.CONTACT_PREFERENCE (
 /*==============================================================*/
 /* Table: GENDER_MASTER                                         */
 /*==============================================================*/
-create table GENDER_MASTER (
+create table dbo.GENDER_MASTER (
    GENDER_CD            varchar(2)           not null,
    GENDER_DESC          varchar(10)          null,
    constraint PK_GENDER_MASTER primary key (GENDER_CD)
 );
 
+
+/*==============================================================*/
+/* Table: PARTICIPANT                                     */
+/*==============================================================*/
 create table dbo.PARTICIPANT (
-   PARTICIPANT_ID       INT                  not null,
+   PARTICIPANT_ID       INT     IDENTITY(1, 1)      not null,
    COHORT_ID            INT                  not null,
    GENDER_CD            varchar(2)           null,
-   NHS_NUMBER           INT                  not null 
-      constraint CKC_NHS_NUMBER_PARTICIP check (Len(convert(varchar,NHS_NUMBER)) = 10),
+   NHS_NUMBER           INT                  not null, 
    SUPERSEDED_BY_NHS_NUMBER INT                  null,
    PARTICIPANT_BIRTH_DATE DATE                 not null,
    PARTICIPANT_DEATH_DATE DATE                 null,
@@ -92,12 +96,18 @@ create table dbo.PARTICIPANT (
 /*==============================================================*/
 /* Table: SCREENING_PROGRAMS                                    */
 /*==============================================================*/
-create table SCREENING_PROGRAMS (
-   SCREENING_PROGRAM_ID INT                  not null,
+create table dbo.SCREENING_PROGRAMS (
+   SCREENING_PROGRAM_ID INT    IDENTITY(1, 1)    not null,
    SCREENING_PROGRAM_NAME VARCHAR(50)          null,
    PROGRAM_DESC         VARCHAR(200)         null,
    constraint PK_SCREENING_PROGRAMS primary key (SCREENING_PROGRAM_ID)
 );
+
+
+
+/*==============================================================*/
+/* Add Standard named constraints and relationships          */
+/*==============================================================*/
 
 alter table dbo.ADDRESS
    add constraint FK_ADDRESS_PARTICIPANT foreign key (PARTICIPANT_ID)
