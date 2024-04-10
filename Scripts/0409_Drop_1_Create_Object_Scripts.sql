@@ -127,4 +127,4 @@ alter table dbo.PARTICIPANT
 
 alter table dbo.COHORT
    add constraint FK_COHORT_PROGRAM_FK_PROGRAM foreign key (PROGRAM_ID)
-      references SCREENING_PROGRAMS (PROGRAM_ID);
+      references SCREENING_PROGRAMS (SCREENING_PROGRAM_ID);
