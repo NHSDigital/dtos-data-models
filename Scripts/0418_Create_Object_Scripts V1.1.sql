@@ -129,7 +129,7 @@ alter table dbo.PARTICIPANT
       references dbo.COHORT (COHORT_ID);
 
 alter table dbo.PARTICIPANT
-   add constraint FK_PARTICIP_GENDER_FK_GENDER_M foreign key (GENDER_CD)
+   add constraint FK_PARTICIPANT_GENDER_FK_GENDER_M foreign key (GENDER_CD)
       references GENDER_MASTER (GENDER_CD);
 
 alter table dbo.COHORT
