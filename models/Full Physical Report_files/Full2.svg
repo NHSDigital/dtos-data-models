@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="114mm" xmlns="http://www.w3.org/2000/svg" height="60mm" version="1.1" viewBox="0 0 432 228" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polyline fill="none" points="256,97 123,97" stroke="#0080c0" stroke-width="1"/>
+   <polygon fill="#0080c0" points="123,97 136,94 136,100" stroke="#0080c0" stroke-width="1" stroke-linejoin="miter"/>
+   <a target="_parent" xlink:href="Full20.htm#797">
+      <rect x="256" y="15" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b2d6fc"/>
+         </linearGradient>
+      </defs>
+      <rect x="256" y="15" fill="url(#Gradient1)" width="161" height="198" stroke="#0080c0" stroke-width="1"/>
+      <text x="336" y="26" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">PARTICIPANT_MANAGEMENT</text>
+      <line x1="256" x2="417" y1="32" y2="32" stroke="#0080c0" stroke-width="1"/>
+      <text x="261" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">PARTICIPANT_ID</text>
+      <text x="261" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SCREENING_ID</text>
+      <text x="261" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">NHS_NUMBER</text>
+      <text x="261" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">REASON_FOR_REMOVAL</text>
+      <text x="261" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">REASON_FOR_REMOVAL_DT</text>
+      <text x="261" y="107" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">BUSINESS_RULE_VERSION</text>
+      <text x="261" y="120" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">EXCEPTION_FLAG</text>
+      <text x="261" y="133" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">RECORD_INSERT_DATETIME</text>
+      <text x="261" y="146" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">RECORD_UPDATE_DATETIME</text>
+   </a>
+   <a target="_parent" xlink:href="Full23.htm#927">
+      <rect x="15" y="20" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b2d6fc"/>
+         </linearGradient>
+      </defs>
+      <rect x="15" y="20" fill="url(#Gradient2)" width="108" height="154" stroke="#0080c0" stroke-width="1"/>
+      <text x="69" y="31" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">SCREENING_LKP</text>
+      <line x1="15" x2="123" y1="37" y2="37" stroke="#0080c0" stroke-width="1"/>
+      <text x="20" y="47" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">SCREENING_ID</text>
+      <text x="20" y="60" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SCREENING_NAME</text>
+      <text x="20" y="73" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SCREENING_TYPE</text>
+   </a>
+</svg>

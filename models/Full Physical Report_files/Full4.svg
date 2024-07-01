@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="182mm" xmlns="http://www.w3.org/2000/svg" height="126mm" version="1.1" viewBox="0 0 690 478" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <a target="_parent" xlink:href="Full22.htm#894">
+      <rect x="380" y="15" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#0080ff"/>
+         </linearGradient>
+      </defs>
+      <rect x="380" y="15" fill="url(#Gradient1)" width="288" height="92" stroke="#00aaaa" stroke-width="1"/>
+      <text x="524" y="26" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">PRIMARY_CARE_PROVIDER_MASTER2</text>
+      <line x1="380" x2="668" y1="32" y2="32" stroke="#00aaaa" stroke-width="1"/>
+      <text x="384" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">PRIMARY_CARE_PROVIDER_CD</text>
+      <text x="384" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PRIMARY_CARE_PROVIDER_DESC</text>
+      <text x="384" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PRIMARY_CARE_PROVIDER_IS_ACTIVE</text>
+      <text x="592" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;Undefined&gt;</text>
+      <text x="592" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;Undefined&gt;</text>
+      <text x="592" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;Undefined&gt;</text>
+      <text x="661" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Full17.htm#288">
+      <rect x="386" y="127" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#00ff80"/>
+         </linearGradient>
+      </defs>
+      <rect x="386" y="127" fill="url(#Gradient2)" width="288" height="92" stroke="#00aaaa" stroke-width="1"/>
+      <text x="530" y="138" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">GENDER_LKP2</text>
+      <line x1="386" x2="674" y1="144" y2="144" stroke="#00aaaa" stroke-width="1"/>
+      <text x="390" y="154" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">GENDER_CD</text>
+      <text x="390" y="167" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">GENDER_DESC</text>
+      <text x="475" y="154" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;Undefined&gt;</text>
+      <text x="475" y="167" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;Undefined&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Full21.htm#869">
+      <rect x="385" y="239" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#00ff80"/>
+         </linearGradient>
+      </defs>
+      <rect x="385" y="239" fill="url(#Gradient3)" width="289" height="92" stroke="#00aaaa" stroke-width="1"/>
+      <text x="529" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">POSTING_CD_LKP2</text>
+      <line x1="385" x2="674" y1="256" y2="256" stroke="#00aaaa" stroke-width="1"/>
+      <text x="390" y="266" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">POSTING_CD</text>
+      <text x="390" y="279" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">POSTING_DESC</text>
+      <text x="479" y="266" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;Undefined&gt;</text>
+      <text x="479" y="279" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;Undefined&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Full15.htm#212">
+      <rect x="379" y="371" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient4" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#00ff80"/>
+         </linearGradient>
+      </defs>
+      <rect x="379" y="371" fill="url(#Gradient4)" width="289" height="92" stroke="#00aaaa" stroke-width="1"/>
+      <text x="523" y="382" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">DEATH_STATUS_LKP2</text>
+      <line x1="379" x2="668" y1="388" y2="388" stroke="#00aaaa" stroke-width="1"/>
+      <text x="384" y="398" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">DEATH_STATUS_CD</text>
+      <text x="384" y="411" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DEATH_DESC</text>
+      <text x="495" y="398" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;Undefined&gt;</text>
+      <text x="495" y="411" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;Undefined&gt;</text>
+      <text x="564" y="398" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   </a>
+   <a target="_parent" xlink:href="Full16.htm#239">
+      <rect x="15" y="92" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient5" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="15" y="92" fill="url(#Gradient5)" width="275" height="178" stroke="#00aaaa" stroke-width="1"/>
+      <text x="152" y="103" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">EXCPETION_MANAGEMENT</text>
+      <line x1="15" x2="290" y1="109" y2="109" stroke="#00aaaa" stroke-width="1"/>
+      <text x="20" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">EXCEPTION_ID</text>
+      <text x="20" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PARTICIPANT_ID</text>
+      <text x="20" y="145" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">RULE_ID</text>
+      <text x="20" y="158" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">WORKFLOW_NAME</text>
+      <text x="20" y="171" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">EXCEPTION_DATE</text>
+      <text x="20" y="184" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">RESOLUTION_DATE</text>
+      <text x="129" y="119" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">bigint</text>
+      <text x="129" y="132" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">bigint</text>
+      <text x="129" y="145" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">bigint</text>
+      <text x="129" y="158" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(100)</text>
+      <text x="129" y="171" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DATE</text>
+      <text x="129" y="184" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+   </a>
+</svg>

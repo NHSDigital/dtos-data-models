@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="102mm" xmlns="http://www.w3.org/2000/svg" height="139mm" version="1.1" viewBox="0 0 388 526" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <a target="_parent" xlink:href="Full19.htm#555">
+      <rect x="73" y="15" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+      <defs>
+         <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+            <stop offset="5%" stop-color="#ffffff"/>
+            <stop offset="95%" stop-color="#b0ffff"/>
+         </linearGradient>
+      </defs>
+      <rect x="73" y="15" fill="url(#Gradient1)" width="242" height="496" stroke="#00aaaa" stroke-width="1"/>
+      <text x="194" y="26" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">PARTICIPANT_DEMOGRAPHIC_STORE</text>
+      <line x1="73" x2="315" y1="32" y2="32" stroke="#00aaaa" stroke-width="1"/>
+      <text x="77" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">PARTICIPANT_ID</text>
+      <text x="77" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">NHS_NUMBER</text>
+      <text x="77" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">SUPERSEDED_BY_NHS_NUMBER</text>
+      <text x="77" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PRIMARY_CARE_PROVIDER</text>
+      <text x="77" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PRIMARY_CARE_PROVIDER_FROM_DT</text>
+      <text x="77" y="107" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">CURRENT_POSTING</text>
+      <text x="77" y="120" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">CURRENT_POSTING_FROM_DT</text>
+      <text x="77" y="133" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PREVIOUS_POSTING</text>
+      <text x="77" y="146" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PREV_POSTING_TO_DT</text>
+      <text x="77" y="159" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">NAME_PREFIX</text>
+      <text x="77" y="172" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">GIVEN_NAME</text>
+      <text x="77" y="185" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">OTHER_GIVEN_NAME</text>
+      <text x="77" y="198" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">FAMILY_NAME</text>
+      <text x="77" y="211" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PREVIOUS_FAMILY_NAME</text>
+      <text x="77" y="224" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DATE_OF_BIRTH</text>
+      <text x="77" y="237" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">GENDER</text>
+      <text x="77" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ADDRESS_LINE_1</text>
+      <text x="77" y="263" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ADDRESS_LINE_2</text>
+      <text x="77" y="276" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ADDRESS_LINE_3</text>
+      <text x="77" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ADDRESS_LINE_4</text>
+      <text x="77" y="302" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ADDRESS_LINE_5</text>
+      <text x="77" y="315" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">POST_CODE</text>
+      <text x="77" y="328" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PAF_KEY</text>
+      <text x="77" y="341" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">USUAL_ADDRESS_FROM_DT</text>
+      <text x="77" y="354" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DATE_OF_DEATH</text>
+      <text x="77" y="367" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DEATH_STATUS</text>
+      <text x="77" y="380" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TELEPHONE_NUMBER_HOME</text>
+      <text x="77" y="393" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TELEPHONE_NUMBER_HOME_FROM_DT</text>
+      <text x="77" y="406" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TELEPHONE_NUMBER_MOB</text>
+      <text x="77" y="419" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TELEPHONE_NUMBER_MOB_FROM_DT</text>
+      <text x="77" y="432" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">EMAIL_ADDRESS_HOME</text>
+      <text x="77" y="445" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">EMAIL_ADDRESS_HOME_FROM_DT</text>
+      <text x="77" y="458" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">PREFERRED_LANGUAGE</text>
+      <text x="77" y="471" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">INTERPRETER_REQUIRED</text>
+      <text x="77" y="484" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">INVALID_FLAG</text>
+      <text x="77" y="497" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">RECORD_INSERT_DATE_TIME</text>
+      <text x="77" y="510" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">RECORD_UPDATE_DATE_TIME</text>
+      <text x="291" y="42" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">bigi</text>
+      <text x="291" y="55" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">bigi</text>
+      <text x="291" y="68" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">bigi</text>
+      <text x="291" y="81" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="94" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="107" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="120" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="133" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="146" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="159" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="172" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="185" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="198" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="211" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="224" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="237" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">smal</text>
+      <text x="291" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="263" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="276" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="289" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="302" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="315" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="328" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="341" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="354" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="367" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">smal</text>
+      <text x="291" y="380" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="393" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="406" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="419" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="432" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varc</text>
+      <text x="291" y="445" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">date</text>
+      <text x="291" y="458" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">varch</text>
+      <text x="291" y="471" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Boole</text>
+      <text x="291" y="484" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Boole</text>
+      <text x="291" y="497" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMES</text>
+      <text x="291" y="510" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMESTAMP</text>
+   </a>
+</svg>
