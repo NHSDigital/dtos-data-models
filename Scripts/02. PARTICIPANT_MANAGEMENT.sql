@@ -1,8 +1,12 @@
+/*==============================================================*/
+/* Table: SCREENING_LKP                                         */
+/*==============================================================*/
 CREATE TABLE SCREENING_LKP (
    SCREENING_ID         BIGINT               NOT NULL,
    SCREENING_NAME       VARCHAR(50)          NULL,
    SCREENING_TYPE       VARCHAR(50)          NULL,
    SCREENING_ACRONYM    VARCHAR(50)          NULL,
+   SCREENING_WORKFLOW_ID VARCHAR(50)          NULL,
    CONSTRAINT PK_SCREENING_LKP PRIMARY KEY (SCREENING_ID)
 );
 
