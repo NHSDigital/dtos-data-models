@@ -7465,12 +7465,12 @@ Shadow=0</a:DisplayPreferences>
 <c:Symbols>
 <o:TableSymbol Id="o33">
 <a:CreationDate>1746535734</a:CreationDate>
-<a:ModificationDate>1746539985</a:ModificationDate>
+<a:ModificationDate>1746556541</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-6309,-5672), (5825,2002))</a:Rect>
+<a:Rect>((-6306,-5669), (5828,2005))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
-<a:LineColor>16512</a:LineColor>
-<a:FillColor>166354</a:FillColor>
+<a:LineColor>8421440</a:LineColor>
+<a:FillColor>16777088</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
 <a:FontList>STRN 0 Arial,8,N
 DISPNAME 0 Arial,8,N
