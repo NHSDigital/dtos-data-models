@@ -1,4 +1,4 @@
-/*==============================================================*/
+*==============================================================*/
 /* Table: EXCEPTION_MANAGEMENT                                  */
 /*==============================================================*/
 CREATE TABLE EXCEPTION_MANAGEMENT (
@@ -16,6 +16,6 @@ CREATE TABLE EXCEPTION_MANAGEMENT (
    COHORT_NAME          VARCHAR(100)         NULL,
    IS_FATAL             SMALLINT             NULL,
    SERVICENOW_ID        NVARCHAR(MAX)        NULL,
-   SERVICENOW_DATE_CREATED DATE                 NULL,
+   SERVICENOW_CREATED_DATE DATE                 NULL,
    CONSTRAINT PK_EXCEPTION_MANAGEMENT PRIMARY KEY (EXCEPTION_ID)
 );
